@@ -2,4 +2,5 @@
 This is the README for the project. 
 
 Walker Wyrough (WW) is Partner 1. 
+
 Zachary Wilson (ZW) is Partner 2. 
